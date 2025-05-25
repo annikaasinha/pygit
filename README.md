@@ -59,26 +59,6 @@ PyGit includes several security features:
 - Detection of suspicious files and executables
 - Repository security verification
 
-## Project Structure
-
-pygit/
-├── __init__.py         # Package initialization
-├── cli.py              # Command-line interface
-├── config.py           # Configuration settings
-├── utils.py            # Utility functions
-├── security.py         # Security features
-└── commands/           # Command implementations
-    ├── __init__.py
-    ├── init.py         # Initialize repository
-    ├── add.py          # Add files to index
-    ├── commit.py       # Commit changes
-    ├── status.py       # Show status
-    ├── log.py          # Show commit history
-    ├── diff.py         # Show differences
-    ├── branch.py       # Branch management
-    ├── checkout.py     # Switch branches
-    └── merge.py        # Merge branches
-
 
 ## Understanding Git Internals
 
