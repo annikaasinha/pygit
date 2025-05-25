@@ -61,7 +61,6 @@ PyGit includes several security features:
 
 ## Project Structure
 
-\`\`\`
 pygit/
 ├── __init__.py         # Package initialization
 ├── cli.py              # Command-line interface
@@ -79,7 +78,7 @@ pygit/
     ├── branch.py       # Branch management
     ├── checkout.py     # Switch branches
     └── merge.py        # Merge branches
-\`\`\`
+
 
 ## Understanding Git Internals
 
@@ -93,10 +92,3 @@ This project helps you understand several key Git concepts:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-\`\`\`
-
-Finally, let's create a simple test script to verify the implementation:
