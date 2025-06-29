@@ -11,41 +11,41 @@ PyGit is a Python implementation of a Git-like version control system. It's desi
 - Security features to protect against common vulnerabilities
 
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/yourusername/pygit.git
 cd pygit
 
-# Install the package
+## Install the package
 pip install -e .
 \`\`\`
 
 
-# Initialize a new repository
+## Initialize a new repository
 pygit init
 
-# Add files to the index
+## Add files to the index
 pygit add file.txt
 
-# Commit changes
+## Commit changes
 pygit commit -m "Initial commit"
 
-# Show commit history
+## Show commit history
 pygit log
 
-# Show repository status
+## Show repository status
 pygit status
 
-# Create a new branch
+## Create a new branch
 pygit branch feature
 
-# Switch to a branch
+## Switch to a branch
 pygit checkout feature
 
-# Merge branches
+## Merge branches
 pygit merge feature
 \`\`\`
 
-# Security Features
+## Security Features
 
 PyGit includes several security features:
 
@@ -56,7 +56,7 @@ PyGit includes several security features:
 - Repository security verification
 
 
-# Understanding Git Internals
+## Understanding Git Internals
 
 This project helps you understand several key Git concepts:
 
@@ -65,6 +65,6 @@ This project helps you understand several key Git concepts:
 3. **Branching and merging**: How Git tracks different development lines
 4. **Three-way merge**: How Git combines changes from different branches
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
