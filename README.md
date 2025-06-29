@@ -19,9 +19,7 @@ cd pygit
 pip install -e .
 \`\`\`
 
-## Usage
 
-\`\`\`bash
 # Initialize a new repository
 pygit init
 
@@ -47,7 +45,7 @@ pygit checkout feature
 pygit merge feature
 \`\`\`
 
-## Security Features
+# Security Features
 
 PyGit includes several security features:
 
@@ -58,7 +56,7 @@ PyGit includes several security features:
 - Repository security verification
 
 
-## Understanding Git Internals
+# Understanding Git Internals
 
 This project helps you understand several key Git concepts:
 
@@ -67,6 +65,6 @@ This project helps you understand several key Git concepts:
 3. **Branching and merging**: How Git tracks different development lines
 4. **Three-way merge**: How Git combines changes from different branches
 
-## Contributing
+# Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
