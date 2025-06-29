@@ -12,7 +12,7 @@ PyGit is a Python implementation of a Git-like version control system. It's desi
 
 
 ## Clone the repository
-git clone https://github.com/yourusername/pygit.git
+git clone https://github.com/annikaasinha/pygit.git
 cd pygit
 
 ## Install the package
